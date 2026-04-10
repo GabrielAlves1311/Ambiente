@@ -1,0 +1,13 @@
+npm init -y    criar o package json
+
+npm i: express criar o servidor
+
+npm i cors     liberar o servidor para html
+
+npm i          dotenv criar as variaveis de ambiente
+
+npm i nodemon  rodar o servidor sem precisar parar
+
+.gitignore     para nao subir ao git
+
+.env           local para criar as variaveis
